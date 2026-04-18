@@ -91,6 +91,7 @@ W projekcie zbudowano model **Random Forest Regressor**, którego celem było pr
 Projekt został zrealizowany z wykorzystaniem:
 - Python
 - Pandas
+- GeoPandas
 - NumPy
 - Matplotlib
 - Seaborn
