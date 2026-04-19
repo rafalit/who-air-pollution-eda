@@ -101,5 +101,4 @@ Projekt został zrealizowany z wykorzystaniem:
 
 ---
 
-## 👤 Autor
 Projekt wykonany w ramach pracy projektowej z zakresu analizy danych i uczenia maszynowego.
